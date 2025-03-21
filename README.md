@@ -1,1 +1,1 @@
-# DataStructure-repo
+# Data Structure Discipline
