@@ -11,10 +11,10 @@ Este é um projeto desenvolvido em **Java** que gera um endereço de email a par
 
 ## Exemplo de Uso
 
-Se o nome fornecido for "joao", o gerador pode gerar os seguintes emails:
+Se o nome fornecido for "joao silva", o gerador pode gerar os seguintes emails:
 
-- joao@gmail.com
-- joao1@gmail.com
-- joao2@gmail.com
+- joaosilva@gmail.com
+- joaosilva1@gmail.com
+- joaosilva2@gmail.com
 
-Se o email `joao@gmail.com` já existir, ele passará a gerar emails como `joao1@gmail.com`, `joao2@gmail.com`, e assim por diante.
+Se o email `joaosilva@gmail.com` já existir, ele passará a gerar emails como `joaosilva1@gmail.com`, `joaosilva2@gmail.com`, e assim por diante.
