@@ -1,0 +1,15 @@
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\bin\Debug\net6.0\geradorEmailC-sharp.exe
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\bin\Debug\net6.0\geradorEmailC-sharp.deps.json
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\bin\Debug\net6.0\geradorEmailC-sharp.runtimeconfig.json
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\bin\Debug\net6.0\geradorEmailC-sharp.dll
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\bin\Debug\net6.0\geradorEmailC-sharp.pdb
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.dll
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\refint\geradorEmailC-sharp.dll
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.pdb
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\geradorEmailC-sharp.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\geradorEmailC-sharp\geradorEmailC-sharp\obj\Debug\net6.0\ref\geradorEmailC-sharp.dll
