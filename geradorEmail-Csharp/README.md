@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um projeto desenvolvido em **Java** que gera um endereço de email a partir de um nome. Caso o nome escolhido já tenha sido gerado anteriormente, o sistema adiciona um índice numérico ao final para garantir que o email seja único.
+Este é um projeto desenvolvido em **C#** que gera um endereço de email a partir de um nome. Caso o nome escolhido já tenha sido gerado anteriormente, o sistema adiciona um índice numérico ao final para garantir que o email seja único.
 
 ## Funcionalidades
 
