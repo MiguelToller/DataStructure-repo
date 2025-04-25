@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\queue-Csharp\bin\Debug\net8.0\queue-Csharp.exe
+C:\Users\laboratorio\source\repos\queue-Csharp\bin\Debug\net8.0\queue-Csharp.deps.json
+C:\Users\laboratorio\source\repos\queue-Csharp\bin\Debug\net8.0\queue-Csharp.runtimeconfig.json
+C:\Users\laboratorio\source\repos\queue-Csharp\bin\Debug\net8.0\queue-Csharp.dll
+C:\Users\laboratorio\source\repos\queue-Csharp\bin\Debug\net8.0\queue-Csharp.pdb
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.dll
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\refint\queue-Csharp.dll
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.pdb
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\queue-Csharp.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\queue-Csharp\obj\Debug\net8.0\ref\queue-Csharp.dll
