@@ -56,7 +56,7 @@ int contarPares(Arvore *raiz) {
 }
 
 int contarFolhas(Arvore *raiz) {
-    if (raiz) { // Percurso pré-fixado
+    if (raiz) {
         if (!raiz->esq && !raiz->dir) {
             return 1;
         }
@@ -66,7 +66,7 @@ int contarFolhas(Arvore *raiz) {
 }
 
 void exibirFolhas(Arvore *raiz) {
-    if (raiz) { // Percurso in-fixado
+    if (raiz) {
         if (!raiz->esq && !raiz->dir) {
             cout << raiz->dado << "\t";
         } else {
@@ -74,5 +74,20 @@ void exibirFolhas(Arvore *raiz) {
             exibirFolhas(raiz->dir);
         }
     }
+}
+
+int localizar(int valor, Arvore *raiz) {
+    if (raiz) {
+        if (raiz->dado == valor) {
+            return 1;
+        }
+        else if (raiz->dado > valor) {
+            return localizar(valor, raiz->esq);
+        }
+        else if (raiz->dado < valor) {
+            return localizar(valor, raiz->dir);
+        }
+    }
+    return 0;
 }
 

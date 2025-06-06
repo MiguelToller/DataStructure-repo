@@ -23,5 +23,8 @@ int main() {
     cout << "\nFolhas: " << endl;
     exibirFolhas(arvore);
 
+    int valor = 32;
+    cout << "\nValor " << valor << (localizar(valor, arvore) ? " encontrado." : " nao encontrado.") << endl;
+
     return 1;
 }
